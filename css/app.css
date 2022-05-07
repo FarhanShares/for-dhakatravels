@@ -629,6 +629,22 @@ Ensure the default browser behavior of the `hidden` attribute.
   margin-right: -0.25rem;
 }
 
+.mt-10 {
+  margin-top: 2.5rem;
+}
+
+.mt-20 {
+  margin-top: 5rem;
+}
+
+.mt-px {
+  margin-top: 1px;
+}
+
+.mt-6 {
+  margin-top: 1.5rem;
+}
+
 .block {
   display: block;
 }
@@ -1613,6 +1629,10 @@ Ensure the default browser behavior of the `hidden` attribute.
   .md\:flex {
     display: flex;
   }
+
+  .md\:h-\[100vh\] {
+    height: 100vh;
+  }
 }
 
 @media (min-width: 1024px) {
@@ -1646,6 +1666,18 @@ Ensure the default browser behavior of the `hidden` attribute.
 
   .lg\:h-\[1vh\] {
     height: 1vh;
+  }
+
+  .lg\:h-\[80vh\] {
+    height: 80vh;
+  }
+
+  .lg\:h-\[85vh\] {
+    height: 85vh;
+  }
+
+  .lg\:h-\[100vh\] {
+    height: 100vh;
   }
 
   .lg\:w-11\/12 {
