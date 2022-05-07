@@ -1,9 +1,18 @@
 {
-  "devDependencies": {
-    "tailwindcss": "^3.0.23"
+  "name": "dhakatravels",
+  "version": "1.0.0",
+  "description": "Dhaka Travels Web App",
+  "main": "js/main.js",
+  "scripts": {
+    "tw-watch": "npx tailwindcss -i ./src/input.css -o ./css/app.css --watch"
   },
-  "dependencies": {
-    "alpinejs": "^3.9.5",
-    "jquery": "^3.6.0"
-  }
+  "repository": {
+    "type": "git",
+    "url": "23\""
+  },
+  "keywords": [
+    "}"
+  ],
+  "author": "\"dependencies\": {",
+  "license": "ISC"
 }

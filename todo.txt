@@ -1,0 +1,7 @@
+1. form margin
+
+2. icon [large: 5 & small: 4+1]
+
+3. Services [large: ok, sm 2+1]
+
+4. Copyright
